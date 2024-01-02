@@ -1,4 +1,4 @@
-package com.hdfc.rabbitMq;
+package com.rabbitmq;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
